@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/news"
+        android:icon="@drawable/news"
+        android:title="Corona News"/>
+    <item android:id="@+id/safety"
+        android:icon="@drawable/safety"
+        android:title="Safety Measures"/>
+    <item android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="settings"/>
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="LogOut"/>
+
+</menu>

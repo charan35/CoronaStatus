@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CoronaStatus</string>
+
+    <string name="changelogTitle">Covid-19 Status v2.1</string>
+    <string name="changelog">\u2022 Fixed some layout glitches.\n\u2022 Fixed countries not showing new recovered cases.\n\u2022 Improvements in push notifications\n\u2022 Other minor under the hood changes.</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+<!--    Slider-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Namaste</string>
+    <string name="slide_1_desc">Greet with Namaste instead of a Handshake</string>
+
+    <string name="slide_2_title">Wash Your Hands</string>
+    <string name="slide_2_desc">Wash your hands often with soap and water for atleast 20 seconds</string>
+
+    <string name="slide_3_title">Cover Your Nose</string>
+    <string name="slide_3_desc">Sneeze or Cough? Cover your nose and mouth with a tissue or use your elbow</string>
+
+    <string name="slide_4_title">Maintain Social Distance</string>
+    <string name="slide_4_desc">Keep atleast 6 feet between yourself and others, if you must be in public</string>
+
+    <string name="slide_5_title">Wear a Mask</string>
+    <string name="slide_5_desc">Wear a cloth face covering over your mouth and nose when around others</string>
+
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>
